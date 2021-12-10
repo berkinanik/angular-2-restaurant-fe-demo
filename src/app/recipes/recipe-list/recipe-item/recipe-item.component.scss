@@ -1,0 +1,14 @@
+.recipe-card {
+  border: 1px solid darkcyan;
+  border-radius: 10px;
+  padding: 0;
+  overflow: hidden;
+  text-decoration: none;
+  color: black;
+  transition: all 0.2s ease-out;
+}
+
+.recipe-card:hover {
+  box-shadow: 0 0 0 2px rgba($color: darkcyan, $alpha: 0.2);
+  color: darkslategrey;
+}
