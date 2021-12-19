@@ -1,0 +1,8 @@
+.recipe-image {
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+  object-fit: cover;
+  overflow: hidden;
+  box-shadow: 0 10px 10px 0 rgba($color: #000000, $alpha: 0.3);
+}
